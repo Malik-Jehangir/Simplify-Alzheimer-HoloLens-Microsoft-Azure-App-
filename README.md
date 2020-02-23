@@ -1,4 +1,4 @@
-# Simplify - An Azure based - Microsoft HoloLens Application for Alzheimer patients
+# Simplify - An Azure based Microsoft HoloLens Application for Alzheimer patients
 
 It is a smart medical solution that helps with the diagnosis of the Alzheimer’s disease symptoms and
 provide a better control over the progression of the disease. SIMPLIFY is unique since the use of modern
