@@ -16,3 +16,6 @@ generate the percentage risk of Alzheimer’s disease.
 Azure machine learning results are sent to Azure Table Storage and utilized by Power BI application
 at the doctor’s end for data visualization in order to give the accurate consultancy to the patient if
 needed.
+
+
+Acknowledgement: Some of the prefabs including the Spatial Mapping ones, belong to LightBuzz.
